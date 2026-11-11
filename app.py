@@ -21,6 +21,15 @@ st.sidebar.caption("Research source: validated quarterly financial CSV. Historic
 
 st.title("Dow & Peers | Financial Research")
 st.caption("Dow · LyondellBasell · DuPont · BASF  |  31 historical quarters  |  Prototype deployed from Google Colab research")
+st.caption(
+    "Independent quantitative research by Dmitry Melnik | "
+    "Financial performance • Statistical analysis • Uncertainty"
+)
+
+st.markdown(
+    "[Source code and methodology on GitHub]"
+    "(https://github.com/dmitrymelnik26/Dow-peers-dashboard)"
+)
 
 if page == "Overview":
     st.subheader("From research notebook to public dashboard")
