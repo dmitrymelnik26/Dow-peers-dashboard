@@ -1,6 +1,16 @@
 # Dow & Peers — Streamlit prototype
 
-Port of three interactive Plotly research panels from `Dow_02_EDA.ipynb`.
+Port of three interactive Plotly research panels from `Dow_02_EDA.ipynb` by Dmitry Melnik
+
+Independent quantitative research examining financial performance, profitability, return on equity, statistical distributions, and uncertainty across Dow, LyondellBasell, DuPont, and BASF.
+
+Live interactive dashboard:
+https://dow-peers-dashboard-qwf2gum2xgpkfpsusxbvnk.streamlit.app/
+
+Research methodology and source code:
+https://github.com/dmitrymelnik26/Dow-peers-dashboard
+
+Historical financial analysis only. Not investment advice.
 
 ## Deploy on Streamlit Community Cloud
 
